@@ -1,3 +1,4 @@
+package module;
 public abstract class User {
     protected int id;
     protected String firstName;

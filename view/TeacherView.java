@@ -1,5 +1,9 @@
+package view;
 import java.util.Objects;
 import java.util.Scanner;
+
+import control.TeacherController;
+import module.TeacherService;
 
 import static java.lang.System.exit;
 

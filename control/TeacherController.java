@@ -1,4 +1,8 @@
+package control;
 import java.util.Scanner;
+
+import module.Teacher;
+import module.TeacherService;
 
 public class TeacherController {
     private final TeacherService storage;
